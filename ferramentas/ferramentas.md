@@ -3,6 +3,20 @@
 
 Obs: Baseado no video https://www.youtube.com/watch?v=dFkGNe4oaKk  e mais outras que encontrei relevantes
 
+Instale o rust 
+
+Linux | Mac
+
+    curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+
+Windows 
+
+Baise e instale o https://visualstudio.microsoft.com/pt-br/downloads/ Visual Studio Community 2022
+
+Baixe e instale https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe 
+
+
 
 1) cargo install sccache
 

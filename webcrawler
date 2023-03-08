@@ -1,0 +1,12 @@
+# Web Crawler in Rust
+
+
+## O que é um web crawler?
+
+Um webcrawler é uma ferramenta que rastreia um ou mais sites, coletando links e conteúdo. Geralmente o mesmo script pode ser utilizado para praticamente todos os tipos de site
+
+## O que é web scraping
+
+Um web scraping é uma ferramenta desenvolvida para capturar **dados específicos** de um ou mais sites semelhantes
+
+

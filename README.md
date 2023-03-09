@@ -83,7 +83,7 @@ Adicione ao arquivo Cargo.toml
  você encontrará um 'hello word' semelhante a esse para substituir no arquivo src/main.rs: 
 
 
-*    use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
+    use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
     #[get("/")]
     async fn hello() -> impl Responder {
